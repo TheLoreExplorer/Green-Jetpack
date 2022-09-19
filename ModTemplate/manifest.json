@@ -3,7 +3,7 @@
   "filename": "Jetpack.dll",
   "author": "TheLoreExplorer",
   "name": "GreenJetpack",
-  "uniqueName": "GreenJetpack.ModTemplate",
+  "uniqueName": "TheLoreExplorer.GreenJetpack",
   "version": "0.2.0",
   "owmlVersion": "2.7.0"
 }
