@@ -1,0 +1,11 @@
+C:\Users\David\AppData\Roaming\OuterWildsModManager\OWML\Mods\Jetpack.ModTemplate\default-config.json
+C:\Users\David\AppData\Roaming\OuterWildsModManager\OWML\Mods\Jetpack.ModTemplate\manifest.json
+C:\Users\David\AppData\Roaming\OuterWildsModManager\OWML\Mods\Jetpack.ModTemplate\Jetpack.dll
+C:\Users\David\AppData\Roaming\OuterWildsModManager\OWML\Mods\Jetpack.ModTemplate\Jetpack.pdb
+C:\Users\David\Source\Repos\TheLoreExplorer\Jetpack\ModTemplate\obj\Debug\Jetpack.csproj.AssemblyReference.cache
+C:\Users\David\Source\Repos\TheLoreExplorer\Jetpack\ModTemplate\obj\Debug\Jetpack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Source\Repos\TheLoreExplorer\Jetpack\ModTemplate\obj\Debug\Jetpack.AssemblyInfoInputs.cache
+C:\Users\David\Source\Repos\TheLoreExplorer\Jetpack\ModTemplate\obj\Debug\Jetpack.AssemblyInfo.cs
+C:\Users\David\Source\Repos\TheLoreExplorer\Jetpack\ModTemplate\obj\Debug\Jetpack.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\TheLoreExplorer\Jetpack\ModTemplate\obj\Debug\Jetpack.dll
+C:\Users\David\Source\Repos\TheLoreExplorer\Jetpack\ModTemplate\obj\Debug\Jetpack.pdb

@@ -1,0 +1,11 @@
+C:\Users\David\Source\Repos\TheLoreExplorer\Jetpack\ModTemplate\obj\Debug\ModTemplate.csproj.AssemblyReference.cache
+C:\Users\David\Source\Repos\TheLoreExplorer\Jetpack\ModTemplate\obj\Debug\ModTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Source\Repos\TheLoreExplorer\Jetpack\ModTemplate\obj\Debug\ModTemplate.AssemblyInfoInputs.cache
+C:\Users\David\Source\Repos\TheLoreExplorer\Jetpack\ModTemplate\obj\Debug\ModTemplate.AssemblyInfo.cs
+C:\Users\David\Source\Repos\TheLoreExplorer\Jetpack\ModTemplate\obj\Debug\ModTemplate.csproj.CoreCompileInputs.cache
+C:\Users\David\AppData\Roaming\OuterWildsModManager\OWML\Mods\Jetpack.ModTemplate\default-config.json
+C:\Users\David\AppData\Roaming\OuterWildsModManager\OWML\Mods\Jetpack.ModTemplate\manifest.json
+C:\Users\David\AppData\Roaming\OuterWildsModManager\OWML\Mods\Jetpack.ModTemplate\ModTemplate.dll
+C:\Users\David\AppData\Roaming\OuterWildsModManager\OWML\Mods\Jetpack.ModTemplate\ModTemplate.pdb
+C:\Users\David\Source\Repos\TheLoreExplorer\Jetpack\ModTemplate\obj\Debug\ModTemplate.dll
+C:\Users\David\Source\Repos\TheLoreExplorer\Jetpack\ModTemplate\obj\Debug\ModTemplate.pdb
