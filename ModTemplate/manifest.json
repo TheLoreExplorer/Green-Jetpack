@@ -2,8 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json",
   "filename": "Jetpack.dll",
   "author": "TheLoreExplorer",
-  "name": "Jetpack",
-  "uniqueName": "Jetpack.ModTemplate",
+  "name": "GreenJetpack",
+  "uniqueName": "GreenJetpack.ModTemplate",
   "version": "0.2.0",
   "owmlVersion": "2.7.0"
 }
