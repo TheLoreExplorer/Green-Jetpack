@@ -43,6 +43,23 @@ namespace ModTemplate
             }
 
         }
+        static bool wasUsingOxygenAsPropellant = false;
+        [HarmonyPostfix]
+        [HarmonyPatch(typeof(PlayerResources),
+           nameof(PlayerResources.UpdateFuel))]
 
+
+        private static void UpdateFuelPostFix(PlayerResources __instance, bool ____usingOxygenAsPropellant)
+        {
+            if (____usingOxygenAsPropellant && !wasUsingOxygenAsPropellant)
+            {
+                __instance._jetpackFlameColorSwapper.SetFlameColor(false);
+
+
+            }
+            wasUsingOxygenAsPropellant = ____usingOxygenAsPropellant;
+
+        }
     }
 }
+

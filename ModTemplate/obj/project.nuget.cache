@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IDnFUPw0/Xt18tPKO/7rMVCjAbKeiQ0xG8njlCC0ERu0zzesLOC8eVCyl9yhVJJFkksII+yXaQB70KDBKIz2Jg==",
+  "dgSpecHash": "M2U8xC+lYhQP8nX0UBTK3lsa/8xUF9GSSuJK/js3NLl3oU6c4fhHvdEYpmT3e2wsy2EKyhoWg0Dui5Kvql53Wg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\David\\Source\\Repos\\TheLoreExplorer\\Jetpack\\ModTemplate\\Jetpack.csproj",
+  "projectFilePath": "C:\\Users\\David\\Source\\Repos\\TheLoreExplorer\\Green-Jetpack\\ModTemplate\\Jetpack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\David\\.nuget\\packages\\harmonyx\\2.10.0\\harmonyx.2.10.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\json.net.unity3d\\9.0.1\\json.net.unity3d.9.0.1.nupkg.sha512",
